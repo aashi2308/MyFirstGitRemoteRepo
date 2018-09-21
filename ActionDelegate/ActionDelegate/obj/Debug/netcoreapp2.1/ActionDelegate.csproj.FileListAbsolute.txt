@@ -1,0 +1,11 @@
+c:\users\m1047247\documents\visual studio 2017\Projects\ActionDelegate\ActionDelegate\bin\Debug\netcoreapp2.1\ActionDelegate.deps.json
+c:\users\m1047247\documents\visual studio 2017\Projects\ActionDelegate\ActionDelegate\bin\Debug\netcoreapp2.1\ActionDelegate.runtimeconfig.json
+c:\users\m1047247\documents\visual studio 2017\Projects\ActionDelegate\ActionDelegate\bin\Debug\netcoreapp2.1\ActionDelegate.runtimeconfig.dev.json
+c:\users\m1047247\documents\visual studio 2017\Projects\ActionDelegate\ActionDelegate\bin\Debug\netcoreapp2.1\ActionDelegate.dll
+c:\users\m1047247\documents\visual studio 2017\Projects\ActionDelegate\ActionDelegate\bin\Debug\netcoreapp2.1\ActionDelegate.pdb
+c:\users\m1047247\documents\visual studio 2017\Projects\ActionDelegate\ActionDelegate\obj\Debug\netcoreapp2.1\ActionDelegate.csprojAssemblyReference.cache
+c:\users\m1047247\documents\visual studio 2017\Projects\ActionDelegate\ActionDelegate\obj\Debug\netcoreapp2.1\ActionDelegate.csproj.CoreCompileInputs.cache
+c:\users\m1047247\documents\visual studio 2017\Projects\ActionDelegate\ActionDelegate\obj\Debug\netcoreapp2.1\ActionDelegate.AssemblyInfoInputs.cache
+c:\users\m1047247\documents\visual studio 2017\Projects\ActionDelegate\ActionDelegate\obj\Debug\netcoreapp2.1\ActionDelegate.AssemblyInfo.cs
+c:\users\m1047247\documents\visual studio 2017\Projects\ActionDelegate\ActionDelegate\obj\Debug\netcoreapp2.1\ActionDelegate.dll
+c:\users\m1047247\documents\visual studio 2017\Projects\ActionDelegate\ActionDelegate\obj\Debug\netcoreapp2.1\ActionDelegate.pdb
