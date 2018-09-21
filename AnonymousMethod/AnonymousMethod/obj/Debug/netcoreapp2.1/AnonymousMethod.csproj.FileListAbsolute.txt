@@ -1,0 +1,11 @@
+c:\users\m1047247\documents\visual studio 2017\Projects\AnonymousMethod\AnonymousMethod\bin\Debug\netcoreapp2.1\AnonymousMethod.deps.json
+c:\users\m1047247\documents\visual studio 2017\Projects\AnonymousMethod\AnonymousMethod\bin\Debug\netcoreapp2.1\AnonymousMethod.runtimeconfig.json
+c:\users\m1047247\documents\visual studio 2017\Projects\AnonymousMethod\AnonymousMethod\bin\Debug\netcoreapp2.1\AnonymousMethod.runtimeconfig.dev.json
+c:\users\m1047247\documents\visual studio 2017\Projects\AnonymousMethod\AnonymousMethod\bin\Debug\netcoreapp2.1\AnonymousMethod.dll
+c:\users\m1047247\documents\visual studio 2017\Projects\AnonymousMethod\AnonymousMethod\bin\Debug\netcoreapp2.1\AnonymousMethod.pdb
+c:\users\m1047247\documents\visual studio 2017\Projects\AnonymousMethod\AnonymousMethod\obj\Debug\netcoreapp2.1\AnonymousMethod.csprojAssemblyReference.cache
+c:\users\m1047247\documents\visual studio 2017\Projects\AnonymousMethod\AnonymousMethod\obj\Debug\netcoreapp2.1\AnonymousMethod.csproj.CoreCompileInputs.cache
+c:\users\m1047247\documents\visual studio 2017\Projects\AnonymousMethod\AnonymousMethod\obj\Debug\netcoreapp2.1\AnonymousMethod.AssemblyInfoInputs.cache
+c:\users\m1047247\documents\visual studio 2017\Projects\AnonymousMethod\AnonymousMethod\obj\Debug\netcoreapp2.1\AnonymousMethod.AssemblyInfo.cs
+c:\users\m1047247\documents\visual studio 2017\Projects\AnonymousMethod\AnonymousMethod\obj\Debug\netcoreapp2.1\AnonymousMethod.dll
+c:\users\m1047247\documents\visual studio 2017\Projects\AnonymousMethod\AnonymousMethod\obj\Debug\netcoreapp2.1\AnonymousMethod.pdb

@@ -1,0 +1,9 @@
+c:\Users\M1047247\documents\visual studio 2017\Projects\Ashi\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\Users\M1047247\documents\visual studio 2017\Projects\Ashi\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\Users\M1047247\documents\visual studio 2017\Projects\Ashi\ClassLibrary1\bin\Debug\DataAccess.dll
+c:\Users\M1047247\documents\visual studio 2017\Projects\Ashi\ClassLibrary1\bin\Debug\DataAccess.pdb
+c:\Users\M1047247\documents\visual studio 2017\Projects\Ashi\ClassLibrary1\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+c:\Users\M1047247\documents\visual studio 2017\Projects\Ashi\ClassLibrary1\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+c:\Users\M1047247\documents\visual studio 2017\Projects\Ashi\ClassLibrary1\obj\Debug\BusinessLayer.csproj.CopyComplete
+c:\Users\M1047247\documents\visual studio 2017\Projects\Ashi\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\Users\M1047247\documents\visual studio 2017\Projects\Ashi\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

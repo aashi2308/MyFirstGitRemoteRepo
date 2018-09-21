@@ -1,0 +1,11 @@
+c:\users\m1047247\documents\visual studio 2017\Projects\BookingVenueDemo\BookingVenueDemo\bin\Debug\netcoreapp2.1\BookingVenueDemo.deps.json
+c:\users\m1047247\documents\visual studio 2017\Projects\BookingVenueDemo\BookingVenueDemo\bin\Debug\netcoreapp2.1\BookingVenueDemo.runtimeconfig.json
+c:\users\m1047247\documents\visual studio 2017\Projects\BookingVenueDemo\BookingVenueDemo\bin\Debug\netcoreapp2.1\BookingVenueDemo.runtimeconfig.dev.json
+c:\users\m1047247\documents\visual studio 2017\Projects\BookingVenueDemo\BookingVenueDemo\bin\Debug\netcoreapp2.1\BookingVenueDemo.dll
+c:\users\m1047247\documents\visual studio 2017\Projects\BookingVenueDemo\BookingVenueDemo\obj\Debug\netcoreapp2.1\BookingVenueDemo.csprojAssemblyReference.cache
+c:\users\m1047247\documents\visual studio 2017\Projects\BookingVenueDemo\BookingVenueDemo\obj\Debug\netcoreapp2.1\BookingVenueDemo.csproj.CoreCompileInputs.cache
+c:\users\m1047247\documents\visual studio 2017\Projects\BookingVenueDemo\BookingVenueDemo\obj\Debug\netcoreapp2.1\BookingVenueDemo.RazorAssemblyInfo.cache
+c:\users\m1047247\documents\visual studio 2017\Projects\BookingVenueDemo\BookingVenueDemo\obj\Debug\netcoreapp2.1\BookingVenueDemo.RazorAssemblyInfo.cs
+c:\users\m1047247\documents\visual studio 2017\Projects\BookingVenueDemo\BookingVenueDemo\obj\Debug\netcoreapp2.1\BookingVenueDemo.AssemblyInfoInputs.cache
+c:\users\m1047247\documents\visual studio 2017\Projects\BookingVenueDemo\BookingVenueDemo\obj\Debug\netcoreapp2.1\BookingVenueDemo.AssemblyInfo.cs
+c:\users\m1047247\documents\visual studio 2017\Projects\BookingVenueDemo\BookingVenueDemo\obj\Debug\netcoreapp2.1\BookingVenueDemo.RazorTargetAssemblyInfo.cache
