@@ -1,0 +1,14 @@
+c:\users\m1047247\documents\visual studio 2017\Projects\AgentPropertySystem\AgentPropertySystem\bin\Debug\netcoreapp2.1\AgentPropertySystem.deps.json
+c:\users\m1047247\documents\visual studio 2017\Projects\AgentPropertySystem\AgentPropertySystem\bin\Debug\netcoreapp2.1\AgentPropertySystem.runtimeconfig.json
+c:\users\m1047247\documents\visual studio 2017\Projects\AgentPropertySystem\AgentPropertySystem\bin\Debug\netcoreapp2.1\AgentPropertySystem.runtimeconfig.dev.json
+c:\users\m1047247\documents\visual studio 2017\Projects\AgentPropertySystem\AgentPropertySystem\bin\Debug\netcoreapp2.1\AgentPropertySystem.dll
+c:\users\m1047247\documents\visual studio 2017\Projects\AgentPropertySystem\AgentPropertySystem\obj\Debug\netcoreapp2.1\AgentPropertySystem.csprojAssemblyReference.cache
+c:\users\m1047247\documents\visual studio 2017\Projects\AgentPropertySystem\AgentPropertySystem\obj\Debug\netcoreapp2.1\AgentPropertySystem.csproj.CoreCompileInputs.cache
+c:\users\m1047247\documents\visual studio 2017\Projects\AgentPropertySystem\AgentPropertySystem\obj\Debug\netcoreapp2.1\AgentPropertySystem.RazorAssemblyInfo.cache
+c:\users\m1047247\documents\visual studio 2017\Projects\AgentPropertySystem\AgentPropertySystem\obj\Debug\netcoreapp2.1\AgentPropertySystem.RazorAssemblyInfo.cs
+c:\users\m1047247\documents\visual studio 2017\Projects\AgentPropertySystem\AgentPropertySystem\obj\Debug\netcoreapp2.1\AgentPropertySystem.AssemblyInfoInputs.cache
+c:\users\m1047247\documents\visual studio 2017\Projects\AgentPropertySystem\AgentPropertySystem\obj\Debug\netcoreapp2.1\AgentPropertySystem.AssemblyInfo.cs
+c:\users\m1047247\documents\visual studio 2017\Projects\AgentPropertySystem\AgentPropertySystem\obj\Debug\netcoreapp2.1\AgentPropertySystem.RazorTargetAssemblyInfo.cache
+c:\users\m1047247\documents\visual studio 2017\Projects\AgentPropertySystem\AgentPropertySystem\bin\Debug\netcoreapp2.1\AgentPropertySystem.pdb
+c:\users\m1047247\documents\visual studio 2017\Projects\AgentPropertySystem\AgentPropertySystem\obj\Debug\netcoreapp2.1\AgentPropertySystem.dll
+c:\users\m1047247\documents\visual studio 2017\Projects\AgentPropertySystem\AgentPropertySystem\obj\Debug\netcoreapp2.1\AgentPropertySystem.pdb
